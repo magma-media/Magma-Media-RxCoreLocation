@@ -36,7 +36,7 @@ To integrate RxCoreLocation into your Xcode project using CocoaPods, specify it 
 
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '9.0'
+platform :ios, '11.0'
 use_frameworks!
 
 pod 'RxCoreLocation', '~> 1.4'
